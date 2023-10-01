@@ -1,0 +1,16 @@
+### Explique en qué consiste sistemas de cifrado por sustitución y por transposición, ¿Cuáles son sus diferencias?
+
+El de sustitución toma los valores de los caracteres o bits que se vayan a utilizar y los sustituye 1 a 1 por otro significado, por ejemplo A puede cambiar por gyG puede cambiar por z y así para todas los caracteres a utilizar. 
+El método de transposición arma una matriz de X columnas y Y filas en las cuales los valores se colocan en ciertas posiciones, lo que hace que el contenido original del mensaje se mezcle pero que mueva todas las posiciones. 
+
+### ¿Cómo funciona el DNS?
+
+El DNS utiliza una tabla en donde con ciertos prefijos se guarda la información de las direcciones de red IPv4 e IPv6 y se les asigna un nombre que pueda ser entendido por los humanos, estos nombres pueden ser una aproximación ya que también guarda nombres parecidos.
+
+### ¿Por qué el DNS es tan robusto y se utiliza actualmente después de tantos años sin mayores cambios?
+
+Esto es debido a que está cargado con varias opciones de configuración en donde pueden guardarse detalles de los usuarios, además funciona de manera jerárquica y los dominios son asignados sobre esa jerarquía lo que hace que solo los que están encargados de ciertos sectores puedan entregar domino's sin utilizar por otros. Esto lo hace robusto y ordenado.
+
+### ¿Cuál es el impacto del DNS en la forma en la cual consumimos internet?
+
+Se tiene cierto orden para buscar en la red, y facilita a buscar por nombre, es más fácil encontrar dominios usando lenguaje natural que direcciones que solamente contienen nombre, además agrupa ciertos servicios y facilita todo el proceso.
